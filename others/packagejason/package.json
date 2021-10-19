@@ -1,0 +1,23 @@
+{
+  "name": "packagejason",
+  "version": "1.0.0",
+  "description": "data ar ok",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "\"echo\\\"erro\""
+  },
+  "keywords": [
+    "moment",
+    "lexicon"
+  ],
+  "author": "Tanvit",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
