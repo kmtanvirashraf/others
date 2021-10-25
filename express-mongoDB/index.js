@@ -7,6 +7,7 @@ app.use(express.json());
 
 //call connection to DB
 //dbConnection();
+//potatis();
 app.post('/user',(req,res)=>
 {
  const {firstName,lastName}=req.body;

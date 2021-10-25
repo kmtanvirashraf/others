@@ -21,5 +21,10 @@ async function main(firstName,lastName){
      } );
      return addUser;
 }
+async function potatis(){
+    console.log('This is test');
+}
+
+
 
 module.exports=main;
